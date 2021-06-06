@@ -2,7 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Amazon-Clone`
+Overview of the project.\
+Created the frontend part using Reactjs and for backend used expressjs along with nodejs and using stripe functionality for the payment method.
+used redux for the basket functionality part for add and remove items.
+Starting the project there is a frontend ui and there is a selection of items in the header section where we get a sign-in option without signning in we cannot order any item.\
+once we click in the signin link it redirects us to the page of signing in and there we have to option for register or signin if we have already registered.\
+once we are signed in we are good to go for orders and now we can choose what to order and once we click into the add to basket feature the product directly goess to the basket page from there clicking into the basket we can see our selected projects and we can remove any item if we want.
+then after choosing every item now we can proceed to checkout once we click into the proceed to checkout it redirects us to the payment page from there we can select the payment method this functionality is done using stripe.\
+Once the payment is succesful we can have a look into our orders in the orders and returns section this database is hosted using firebase.\
+
+you can have a look at the app through the site from this.\
+app Id: test123123@gmail.com.\
+passowrd: 123456.\
+
+you can go to the orders section then can check that the already orders which are done\
+
+you can have the project in your local machine and then run the whole thing by our own.\
+
+
+
 
 In the project directory, you can run:
 
