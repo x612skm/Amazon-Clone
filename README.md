@@ -13,8 +13,8 @@ then after choosing every item now we can proceed to checkout once we click into
 Once the payment is succesful we can have a look into our orders in the orders and returns section this database is hosted using firebase.\
 
 you can have a look at the app through the site from this.\
-app Id: test123123@gmail.com.\
-passowrd: 123456.\
+app Id: test123123@gmail.com
+passowrd: 123456
 
 you can go to the orders section then can check that the already orders which are done\
 
